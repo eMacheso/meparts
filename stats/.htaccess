@@ -1,0 +1,7 @@
+AuthName "meparts.education.gov.mw statistics"
+AuthType Basic
+AuthUserFile /home/meparts/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

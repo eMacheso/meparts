@@ -1,0 +1,727 @@
+# Webalizer V2.23-08 Incremental Data - 02/11/2023 22:20:43
+2023 2 11 22 20 43
+2392 780 100 67 49 27 42063635 1414 50 0 0 0
+9 6 351 1 11
+42 0 281209 15 1 1 0 0
+60 5 1248790 18 3 2 0 0
+66 6 1282766 15 5 3 0 0
+432 10 4636907 20 352 6 0 0
+392 4 3537643 15 346 2 0 0
+919 500 12349832 13 532 6 0 0
+391 243 15624130 36 164 26 0 0
+20 0 136440 8 0 0 0 0
+31 2 181717 13 7 1 0 0
+24 10 2681871 11 4 3 0 0
+15 0 102330 9 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+24 0 163728 0 0 0
+21 3 134538 4 0 0
+18 0 122796 0 0 0
+27 0 184194 0 0 0
+19 0 129618 0 0 0
+33 4 1076151 1 0 0
+12 0 81864 0 0 0
+409 26 4358826 364 0 0
+16 3 72666 5 0 0
+298 213 17943051 103 0 0
+105 40 314170 59 0 0
+7 3 890113 1 0 0
+25 9 982734 3 0 0
+18 5 962266 3 0 0
+5 0 34110 0 0 0
+18 0 110566 0 0 0
+348 300 3379291 109 0 0
+185 157 2241796 64 0 0
+31 0 211482 0 0 0
+11 1 76502 2 0 0
+16 4 960175 1 0 0
+9 0 61398 0 0 0
+719 4 5780795 690 0 0
+18 8 1790805 5 0 0
+2
+0
+0
+780
+0
+0
+0
+0
+0
+1
+0
+0
+115
+0
+6
+0
+0
+0
+0
+0
+0
+1414
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+74
+0
+0
+0
+0
+0
+# -urls- 
+/questions/view/10
+0 1 0 4174 0 0 0 0
+/users
+0 13 0 66482 0 1 0 0
+/css/app.css
+0 50 0 903426 0 0 0 0
+/session/51/add-meeting
+0 1 0 3821 0 0 0 0
+/assets/vendors/summernote/summernote-lite.min.js
+0 7 0 203581 0 0 0 0
+/questions/meeting/1/create
+0 5 0 27293 0 0 0 0
+/assets/img/app-logo.png
+1 2 0 0 0 0 0 0
+/meeting/5/questions
+0 2 0 12370 0 0 0 0
+/session/49/view-meetings
+0 5 0 19213 0 0 0 0
+/assets/vendors/jquery/jquery.min.js
+0 9 0 121040 0 0 0 0
+/assets/vendors/summernote/summernote-lite.min.css
+0 4 0 36657 0 0 0 0
+/assets/vendors/bootstrap-icons/fonts/bootstrap-icons.woff2
+0 1 0 80838 0 0 0 0
+/questions/unresponded
+0 5 0 19251 0 0 0 0
+/questions/view/3
+0 7 0 34798 0 0 0 0
+/questions/meeting/4/create
+0 3 0 16590 0 0 0 0
+/password/reset
+0 2 0 5059 0 0 0 0
+/session/create
+0 4 0 14942 0 0 0 0
+/session/index
+0 11 0 45845 0 0 0 0
+/favicon.ico
+0 44 0 15123 0 0 0 0
+/questions/all
+0 2 0 9671 0 0 0 0
+/meeting/7/questions
+0 2 0 12371 0 0 0 0
+/questions/meeting/8/create
+0 1 0 5537 0 0 0 0
+/js/app.js
+0 54 0 25556836 0 0 0 0
+/assets/vendors/perfect-scrollbar/perfect-scrollbar.css
+0 3 0 3990 0 0 0 0
+/questions/responded
+0 4 0 16712 0 0 0 0
+/announcements
+0 5 0 19271 0 0 0 0
+/assets/vendors/iconly/fonts/Iconly---Bold.woff
+0 1 0 24832 0 0 0 0
+/assets/js/bootstrap.bundle.min.js
+0 67 0 126049 0 0 0 0
+/session/50/add-meeting
+0 4 0 15321 0 0 0 0
+/questions/view/8
+0 1 0 4167 0 0 0 0
+/questions/meeting/5/create
+0 1 0 5530 0 0 0 0
+/session/50/view-meetings
+0 9 0 34351 0 0 0 0
+/session/10/view-meetings
+0 3 0 11551 0 0 0 0
+/orderpapers
+0 2 0 8064 0 0 0 0
+/announcements/create
+0 2 0 8545 0 0 0 0
+/login
+0 82 0 209132 14 1 0 0
+/assets/css/bootstrap.css
+0 5 0 173292 0 0 0 0
+/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js
+0 67 0 26078 0 0 0 0
+/session/10/add-meeting
+0 2 0 7636 0 0 0 0
+/meeting/3/questions
+0 1 0 6048 0 0 0 0
+/users/create
+0 5 0 20113 0 0 0 0
+/assets/vendors/iconly/bold.css
+0 4 0 8297 0 0 0 0
+/session/51/view-meetings
+0 8 0 30456 0 0 0 0
+/assets/css/app.css
+0 4 0 28327 0 0 0 0
+/assets/vendors/bootstrap-icons/bootstrap-icons.css
+0 4 0 71300 0 0 0 0
+/assets/img/logo.jpg
+1 115 0 235099 0 0 0 0
+/assets/vendors/summernote/font/summernote.woff2
+0 2 0 12855 0 0 0 0
+/assets/vendors/simple-datatables/simple-datatables.js
+0 4 0 65848 0 0 0 0
+/
+0 21 0 95739 23 1 0 0
+/full-calender/action
+0 1 0 1303 0 0 0 0
+/assets/js/main.js
+0 69 0 4461 0 0 0 0
+/assets/vendors/simple-datatables/style.css
+0 5 0 3922 0 0 0 0
+/assets/vendors/summernote/font/summernote.ttf
+0 1 0 12167 0 0 0 0
+/meeting/6/questions
+0 1 0 6051 0 0 0 0
+/all-meetings
+0 7 0 26309 0 0 0 0
+/assets/vendors/iconly/fonts/Iconly---Bold.ttf
+0 2 0 49509 0 0 0 0
+/questions/view/7
+0 2 0 8342 0 0 0 0
+/meeting/8/questions
+0 5 0 30921 0 0 0 0
+/robots.txt
+0 2 0 5074 0 0 0 0
+/assets/vendors/bootstrap-icons/fonts/bootstrap-icons.woff
+0 2 0 214171 0 0 0 0
+/moe-events-calendar
+0 7 0 14736 0 0 0 0
+/meeting/1/questions
+0 14 0 96486 0 0 0 0
+/questions/view/11
+0 1 0 4182 0 0 0 0
+/meeting/4/questions
+0 4 0 24671 0 0 0 0
+/questions/view/6
+0 1 0 4172 0 0 0 0
+/assets/vendors/summernote/font/summernote.woff
+0 1 0 7699 0 0 0 0
+/questions/meeting/7/create
+0 1 0 5534 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+3.138.61.229
+0 6 0 40932 0 0 0 0
+-
+137.115.0.36
+0 4 3 3786 1 1675762815 0 0
+/login
+3.140.253.209
+0 2 0 13644 0 0 0 0
+-
+18.118.167.113
+0 6 0 40932 0 0 0 0
+-
+18.236.98.74
+0 2 1 2094 1 1675343980 0 0
+/login
+23.178.112.209
+0 18 0 122796 0 0 0 0
+-
+205.210.31.33
+0 1 0 1507 1 1675243634 0 0
+-
+52.37.97.193
+0 2 1 2094 1 1675503525 0 0
+/login
+102.70.4.227
+0 10 7 887818 1 1675762842 0 0
+/login
+102.70.0.30
+0 10 7 887918 2 1675766355 0 0
+/login
+23.178.112.202
+0 17 0 115974 0 0 0 0
+-
+34.209.235.155
+0 6 0 40932 0 0 0 0
+-
+3.137.154.132
+0 9 0 61398 0 0 0 0
+-
+137.115.0.6
+0 14 13 8541 1 1675762970 0 0
+/login
+35.167.166.210
+0 4 4 878311 1 1675503528 0 0
+/login
+34.218.81.44
+0 5 0 34110 0 0 0 0
+-
+35.87.212.140
+0 10 0 68220 0 0 0 0
+-
+52.26.196.172
+0 2 0 13644 0 0 0 0
+-
+18.220.188.228
+0 2 0 13644 0 0 0 0
+-
+52.16.178.58
+0 2 1 5903 1 1675386806 0 0
+/login
+137.196.0.40
+0 4 3 3787 1 1675762815 0 0
+/login
+18.224.213.190
+0 1 0 6822 0 0 0 0
+-
+137.64.0.12
+0 5 5 878587 1 1675762818 0 0
+/login
+137.115.0.37
+0 140 64 312280 3 1675766924 0 0
+/login
+52.41.89.187
+0 6 0 40932 0 0 0 0
+-
+34.216.145.89
+0 5 0 34110 0 0 0 0
+-
+198.235.24.143
+0 2 1 15104 1 1675451787 0 0
+/login
+137.196.0.9
+0 6 5 880151 1 1675762780 0 0
+/login
+3.139.83.146
+0 5 0 34110 0 0 0 0
+-
+18.188.195.48
+0 2 0 13644 0 0 0 0
+-
+23.178.112.208
+0 16 0 109152 0 0 0 0
+-
+18.188.230.230
+0 9 0 61398 0 0 0 0
+-
+18.236.112.15
+0 9 0 61398 0 0 0 0
+-
+137.64.0.13
+0 30 25 47977 1 1675763009 0 0
+/password/reset
+102.70.4.155
+0 6 5 880151 1 1675762930 0 0
+/login
+18.118.31.227
+0 7 0 47754 0 0 0 0
+-
+54.212.51.249
+0 4 4 878310 1 1675581247 0 0
+/login
+54.71.120.164
+0 7 0 47754 0 0 0 0
+-
+3.128.160.246
+0 18 0 122796 0 0 0 0
+-
+3.145.59.233
+0 4 0 27288 0 0 0 0
+-
+102.70.0.65
+0 6 5 880152 1 1675762934 0 0
+/login
+23.178.112.103
+0 11 0 75042 0 0 0 0
+-
+3.16.151.51
+0 8 0 54576 0 0 0 0
+-
+52.41.38.197
+0 6 6 1728266 1 1676072019 0 0
+/login
+102.70.4.199
+0 6 5 880151 1 1675762805 0 0
+/login
+137.115.0.1
+0 24 18 13777 1 1675675581 0 0
+/
+18.188.26.244
+0 1 0 6822 0 0 0 0
+-
+35.87.21.227
+0 4 4 878311 1 1675541682 0 0
+/login
+3.128.181.45
+0 1 0 6822 0 0 0 0
+-
+18.220.237.73
+0 6 0 40932 0 0 0 0
+-
+35.93.67.70
+0 3 0 20466 0 0 0 0
+-
+23.178.112.102
+0 14 0 95508 0 0 0 0
+-
+196.11.86.18
+0 35 27 4411938 1 1675763790 0 0
+/login
+23.178.112.203
+0 21 0 143262 0 0 0 0
+-
+52.12.120.103
+0 4 4 878310 1 1675772382 0 0
+/login
+3.145.145.248
+0 3 0 20466 0 0 0 0
+-
+167.248.133.63
+0 3 2 19483 1 1675646747 0 0
+/login
+54.69.241.8
+0 4 4 878308 1 1675808694 0 0
+/login
+34.221.61.96
+0 2 0 13644 0 0 0 0
+-
+129.140.0.29
+0 73 63 1407260 1 1675703793 0 0
+/questions/responded
+35.90.124.12
+0 2 1 2094 1 1675772380 0 0
+/login
+52.26.1.252
+0 1 0 6822 0 0 0 0
+-
+137.115.0.29
+0 18 8 15147 1 1675762883 0 0
+/login
+54.201.248.203
+0 2 0 13644 0 0 0 0
+-
+206.189.30.46
+0 347 0 2379594 1 1675722112 0 0
+-
+52.32.254.6
+0 3 0 20466 0 0 0 0
+-
+102.70.4.243
+0 6 5 880148 1 1675762823 0 0
+/login
+23.178.112.107
+0 13 0 88686 0 0 0 0
+-
+23.178.112.106
+0 13 0 88686 0 0 0 0
+-
+54.149.219.140
+0 2 0 13644 0 0 0 0
+-
+54.244.78.212
+0 6 0 40932 0 0 0 0
+-
+18.202.228.67
+0 1 0 6750 1 1675786527 0 0
+/
+54.213.95.98
+0 2 1 2094 1 1676072018 0 0
+/login
+3.128.204.27
+0 3 0 20466 0 0 0 0
+-
+54.214.184.194
+0 9 0 61398 0 0 0 0
+-
+196.11.86.140
+0 7 2 17989 1 1675938121 0 0
+/login
+18.116.23.155
+0 6 0 40932 0 0 0 0
+-
+129.140.0.244
+0 42 24 4919536 0 0 0 0
+-
+205.210.31.17
+0 2 1 5869 1 1675553621 0 0
+/login
+35.93.71.100
+0 14 0 95508 0 0 0 0
+-
+137.115.0.12
+0 11 10 905119 1 1675756303 0 0
+/login
+137.115.0.9
+0 426 385 3594834 1 1675703677 0 0
+/
+18.236.105.143
+0 1 0 6822 0 0 0 0
+-
+205.210.31.44
+0 1 0 1507 1 1675503476 0 0
+-
+196.11.86.134
+0 4 3 869647 1 1676028450 0 0
+/login
+165.227.239.135
+0 696 0 4772906 2 1675636001 0 0
+-
+54.184.16.134
+0 4 4 878313 1 1675403610 0 0
+/login
+54.191.109.190
+0 2 0 13644 0 0 0 0
+-
+3.138.245.48
+0 2 0 13644 0 0 0 0
+-
+18.219.132.140
+0 2 0 13644 0 0 0 0
+-
+137.196.0.17
+0 26 25 41056 1 1675762853 0 0
+/login
+183.136.225.46
+0 12 8 43670 1 1675674951 0 0
+/login
+35.165.161.35
+0 1 0 6822 0 0 0 0
+-
+34.211.52.234
+0 11 0 68927 0 0 0 0
+-
+3.20.237.248
+0 12 0 75749 0 0 0 0
+-
+137.64.0.32
+0 9 8 3786 1 1675762762 0 0
+/login
+35.91.220.77
+0 10 0 68220 0 0 0 0
+-
+34.221.190.179
+0 1 0 6822 0 0 0 0
+-
+54.191.148.50
+0 4 4 878308 1 1675343983 0 0
+/login
+129.140.0.19
+0 5 5 878591 1 1675762818 0 0
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+52.26.196.172
+0 2 0 13644 0 0 0 0
+-
+18.224.213.190
+0 1 0 6822 0 0 0 0
+-
+23.178.112.208
+0 1 0 6822 0 0 0 0
+-
+23.178.112.103
+0 2 0 13644 0 0 0 0
+-
+3.128.181.45
+0 1 0 6822 0 0 0 0
+-
+34.221.61.96
+0 2 0 13644 0 0 0 0
+-
+23.178.112.106
+0 2 0 13644 0 0 0 0
+-
+3.128.204.27
+0 3 0 20466 0 0 0 0
+-
+34.221.190.179
+0 1 0 6822 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://meparts.education.gov.mw/session/create
+0 18
+http://meparts.education.gov.mw/questions/view/7
+0 3
+android-app://com.google.android.googlequicksearchbox/
+0 8
+http://meparts.education.gov.mw/meeting/5/questions
+0 10
+http://meparts.education.gov.mw/assets/vendors/bootstrap-icons/bootstrap-icons.css
+0 1
+http://196.11.82.10:80
+0 1
+http://meparts.education.gov.mw/session/index
+0 26
+http://meparts.education.gov.mw/users/create
+0 28
+http://meparts.education.gov.mw/questions/unresponded
+0 16
+http://meparts.education.gov.mw/questions/responded
+0 9
+http://meparts.education.gov.mw/all-meetings
+0 23
+http://meparts.education.gov.mw/login
+0 223
+http://meparts.education.gov.mw/questions/view/10
+0 3
+http://meparts.education.gov.mw/session/50/view-meetings
+0 33
+http://meparts.education.gov.mw/questions/meeting/7/create
+0 2
+http://meparts.education.gov.mw/questions/view/3
+0 25
+http://meparts.education.gov.mw/questions/view/11
+0 2
+http://meparts.education.gov.mw/assets/vendors/summernote/summernote-lite.min.css
+0 1
+http://10.150.72.20/
+0 5
+http://meparts.education.gov.mw/questions/meeting/4/create
+0 25
+http://meparts.education.gov.mw/meeting/7/questions
+0 2
+https://196.11.82.10:443
+0 1
+http://meparts.education.gov.mw/announcements/create
+0 6
+- (Direct Request)
+0 1528
+http://meparts.education.gov.mw/meeting/3/questions
+0 4
+http://meparts.education.gov.mw/users
+0 57
+http://meparts.education.gov.mw/assets/vendors/iconly/bold.css
+0 1
+http://meparts.education.gov.mw/meeting/1/questions
+0 29
+http://meparts.education.gov.mw/session/10/view-meetings
+0 12
+http://meparts.education.gov.mw/orderpapers
+0 7
+http://meparts.education.gov.mw/questions/meeting/1/create
+0 11
+http://meparts.education.gov.mw/announcements
+0 11
+http://meparts.education.gov.mw/password/reset
+0 8
+http://meparts.education.gov.mw/session/51/view-meetings
+0 14
+http://meparts.education.gov.mw/session/10/add-meeting
+0 11
+http://meparts.education.gov.mw/questions/meeting/5/create
+0 7
+http://meparts.education.gov.mw/
+0 126
+http://meparts.education.gov.mw/moe-events-calendar
+0 12
+http://meparts.education.gov.mw
+0 4
+http://meparts.education.gov.mw/meeting/4/questions
+0 20
+http://meparts.education.gov.mw/session/51/add-meeting
+0 3
+https://meparts.education.gov.mw/login
+0 4
+http://meparts.education.gov.mw/questions/view/6
+0 6
+http://196.11.82.10:80/
+0 1
+http://meparts.education.gov.mw/questions/all
+0 8
+http://meparts.education.gov.mw/session/50/add-meeting
+0 15
+http://meparts.education.gov.mw/session/49/view-meetings
+0 10
+http://meparts.education.gov.mw/questions/meeting/8/create
+0 3
+http://meparts.education.gov.mw/meeting/8/questions
+0 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Sa
+0 9
+com.apple.WebKit.Networking/8614.3.7.0.6 CFNetwork/1402.0.8 Darwin/22.2.0
+0 4
+Mozilla/5.0 (Linux; Android 12; SM-F916N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.88 Mobile Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G8850) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.1 Chrome/102.0.500
+0 10
+Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (Linux; Android 13; SM-F916N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 356
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 1043
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE
+0 10
+Mozilla/5.0 (Linux; Android 11; itel P661W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 2
+WhatsApp/2.23.1.75 i
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+0 266
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
+0 419
+Mozilla/5.0 (Linux; Android 11; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.146
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/106.0.5249.92 Mobile/15
+0 41
+MobileSafari/8614.3.7.0.6 CFNetwork/1402.0.8 Darwin/22.2.0
+0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+0 34
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.151
+0 66
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
